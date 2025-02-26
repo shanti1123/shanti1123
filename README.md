@@ -1,6 +1,6 @@
-˖⁺. ༶ ⋆ [ Hi, I'm Shanti ]
+ [ Hi, I'm Shanti ]
 
-she/her | CS & Data Science @ UW | Tech + Healthcare 
+˖⁺. ༶ ⋆ she/her | CS & Data Science @ UW | Tech + Healthcare 
 
 ✧ Java ✧ Python ✧ JavaScript ✧ C++ ✧ HTML/CSS
 
